@@ -8,6 +8,8 @@ Our mission is to _empower and enrich human creativity and productivity with gen
 
 This website is a work in progress! Please check back soon for updates.
 
+REBUILD
+
 ## Members
 
 The G-CLef lab is led by [Chris Donahue](https://chrisdonahue.com), Dannenberg Assistant Professor at CMU CSD.
